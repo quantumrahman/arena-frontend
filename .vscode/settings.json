@@ -41,6 +41,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "tailwindCSS.lint.cssConflict": "ignore",
+    "tailwindCSS.lint.suggestCanonicalClasses": "ignore",
     "tailwindCSS.emmetCompletions": false,
     "css.lint.unknownAtRules": "ignore",
 }
