@@ -42,6 +42,5 @@
     },
     "tailwindCSS.lint.cssConflict": "ignore",
     "tailwindCSS.lint.suggestCanonicalClasses": "ignore",
-    "tailwindCSS.emmetCompletions": false,
     "css.lint.unknownAtRules": "ignore",
 }
